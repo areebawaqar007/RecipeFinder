@@ -39,7 +39,8 @@ VITE_API_KEY=your_api_key_here
 
 4. Use it in project
 const API_KEY = import.meta.env.VITE_API_KEY;
-▶️ Installation & Run
+
+**▶️ Installation & Run**
 
 Clone the repository:
 
