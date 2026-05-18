@@ -12,20 +12,24 @@ RecipeFinder is a React-based web application that allows users to search for re
 - ⚡ Fast and responsive UI using React  
 - 🌐 Fetches real-time data from Spoonacular API  
 
-**🛠️ Tech Stack**
-React (Vite)
-JavaScript (ES6+)
-CSS Modules
-Spoonacular API
+## 🛠️ Tech Stack
 
-**📸 Project Flow**
-User enters a search query (default: "pasta")
-API fetches recipes based on query
-Results are displayed using FoodList and FoodItem components
-User clicks “View Recipe” button
-Recipe ID is sent to fetch detailed recipe data
-Ingredients and instructions are displayed in FoodDetails component
+- ⚛️ React (Vite)  
+- 🧠 JavaScript (ES6+)  
+- 🎨 CSS Modules  
+- 🌐 Spoonacular API  
 
+---
+
+## 📸 Project Flow
+
+- 🔍 User enters a search query (default: "pasta")  
+- 🌐 API fetches recipes based on the query  
+- 🍲 Results are displayed using FoodList and FoodItem components  
+- 👆 User clicks “View Recipe” button  
+- 🆔 Recipe ID is sent to fetch detailed recipe data  
+- 📖 Ingredients and instructions are displayed in FoodDetails component
+ 
 **🔑 API Setup**
 
 This project uses the Spoonacular API.
