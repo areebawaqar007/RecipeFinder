@@ -30,7 +30,7 @@ RecipeFinder is a React-based web application that allows users to search for re
 - 🆔 Recipe ID is sent to fetch detailed recipe data  
 - 📖 Ingredients and instructions are displayed in FoodDetails component
  
-**🔑 API Setup**
+**##🔑 API Setup**
 
 This project uses the Spoonacular API.
 
@@ -45,7 +45,7 @@ VITE_API_KEY=your_api_key_here
 4. Use it in project
 const API_KEY = import.meta.env.VITE_API_KEY;
 
-**▶️ Installation & Run**
+**##▶️ Installation & Run**
 
 Clone the repository:
 
