@@ -60,7 +60,7 @@ Run development server:
 
 npm run dev
 
-⚠️ Important Notes
-Make sure to add .env file (not included in repo)
-API key should never be pushed to GitHub
+## ⚠️ Important Notes
+Make sure to add .env file (not included in repo)  
+API key should never be pushed to GitHub    
 If API doesn’t work, check quota limits on Spoonacular
