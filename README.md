@@ -1,5 +1,5 @@
 # RecipeFinder
-🍽️ RecipeFinder
+
 
 RecipeFinder is a React-based web application that allows users to search for recipes and view detailed cooking instructions using the Spoonacular API.
 
