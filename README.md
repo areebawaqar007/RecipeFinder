@@ -21,10 +21,10 @@ Spoonacular API
 **📸 Project Flow**
 User enters a search query (default: "pasta")
 API fetches recipes based on query
-Results are displayed using FoodList and FoodItem
-User clicks View Recipe
-Detailed recipe is fetched using recipe ID
-Ingredients and instructions are displayed in FoodDetails
+Results are displayed using FoodList and FoodItem components
+User clicks “View Recipe” button
+Recipe ID is sent to fetch detailed recipe data
+Ingredients and instructions are displayed in FoodDetails component
 
 **🔑 API Setup**
 
